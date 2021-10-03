@@ -1,0 +1,134 @@
+[
+    {
+        "key": "1",
+        "title": "Baking Bead As chef - Bread Baking For Breakfast and Sandwich!",
+        "img": "https://images.unsplash.com/photo-1606101206245-adebf963b569?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGJlYWQlMjBiYWtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 5,
+            "enrolled": 663
+        },
+        "learn": [
+            "How to Bake Three of Breakfast Breads that are Banana Bread, Almonds Bread, and Batbout Bread.",
+            "How to Bake Three of Sandwich Breads that are Toast, Burger, and Fati Bread.",
+            "Tips that you need to focus on to succeed Baking Our Bread Suggestions."
+        ],
+        "requirements": "If you already know how to knead manually, that would be better.",
+        "duration": 45,
+        "price": 13.99
+    },
+    {
+        "key": "2",
+        "title": "Learn Vanilla Cake Baking and Decorations",
+        "img": "https://images.unsplash.com/photo-1534520238782-00b1a4650596?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTcxfHxjYWtlJTIwYmFraW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 5,
+            "enrolled": 345
+        },
+        "learn": [
+            "Learn how to make the best, moist and tasty vanilla cake from scratch to applying simple but elegant decoration in 9 simple videos"
+        ],
+        "requirements": "This is course is designed for beginners and experts alike.",
+        "duration": 30,
+        "price": 13.99
+    },
+    {
+        "key": "3",
+        "title": "Pro Baking Pastry Desserts: Buns, Croissants & Schneck",
+        "img": "https://images.unsplash.com/photo-1612240498936-65f5101365d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFzdHJ5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 4.5,
+            "enrolled": 300
+        },
+        "learn": [
+            "How to make Pastry cream: secrets and tips.",
+            "Bun Dough: baking 2 pastry desserts (Burger and cream bun, chocolate bun).",
+            "Pain au chocolat Dough: baking 3 pastry desserts (Pain au chocolat, Croissant, Schneck)."
+        ],
+        "requirements": "Be able to knead manually.",
+        "duration": 39,
+        "price": 13.99
+    },
+    {
+        "key": "4",
+        "title": "Fabioulous Pizza",
+        "img": "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGl6emF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 4.8,
+            "enrolled": 154
+        },
+        "learn": [
+            "Make the best homemade pizza, using what you have at home."
+        ],
+        "requirements": "No need to buy neither special ingredients nor special tools. I only recommend a cheap kitchen scale for precise measurements.",
+        "duration": 90,
+        "price": 13.99
+    },
+    {
+        "key": "5",
+        "title": "Plated Desserts Made Simple",
+        "img": "https://images.unsplash.com/photo-1617980695459-c3f033df383d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGxhdGVkJTIwZGVzc2VydHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 4.7,
+            "enrolled": 907
+        },
+        "learn": [
+            "Advance your baking & decorating career by learning a huge variety of critical recipes and sophisticated decoration skills.",
+            "Create unique and stylish chocolate and mousse-based desserts.",
+            "Expand your chocolate making skills by learning how to make amazing chocolate decorations."
+        ],
+        "requirements": "No previous baking or cake decoration experience is necessary - everything is explained from the ground up.",
+        "duration": 210,
+        "price": 13.99
+    },
+    {
+        "key": "6",
+        "title": "All About Cookies: the crunchy and crumbly",
+        "img": "https://images.unsplash.com/photo-1607919564479-c2e00f3b14a9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29va2llcyUyMGJha2luZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 5,
+            "enrolled": 61
+        },
+        "learn": [
+            "Learn to bake the perfect cookie the right way! With six different cookies and decorations all from scratch.",
+            "Learn the various types of cookie dough such as the short crust pasty, biscuti dough and gingerbread.",
+            "Create professionally looking royal iced sugar cookies implementing different techniques and designs."
+        ],
+        "requirements": "There is no need in previous baking background or experience.",
+        "duration": 210,
+        "price": 13.99
+    },
+    {
+        "key": "7",
+        "title": "The best three easy recipes of cupcake",
+        "img": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y3VwY2FrZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 4.9,
+            "enrolled": 510
+        },
+        "learn": [
+            "baking cupcakes and making caramel and frosting",
+            "proportions of ingredients",
+            "secrets of a successful result"
+        ],
+        "requirements": "thermometer (pyrometer) and a stand mixer or hand mixer",
+        "duration": 90,
+        "price": 13.99
+    },
+    {
+        "key": "8",
+        "title": "7 Beautiful Piping Techniques for Unique Cakes",
+        "img": "https://images.unsplash.com/photo-1622896784083-cc051313dbab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FrZSUyMGRlY29yYXRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "star": 5,
+            "enrolled": 50
+        },
+        "learn": [
+            "The basics of frosting: how to check and adjust the consistency and how to store it",
+            "How to pipe detailed shapes onto cakes e.g. rainbows, pumpkins, Christmas trees",
+            "How to pipe texture onto cakes using different piping tips"
+        ],
+        "requirements": "Have an interest in cake decorating!",
+        "duration": 41,
+        "price": 13.99
+    }
+]

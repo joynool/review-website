@@ -4,17 +4,23 @@ import CourseHighlight from '../CourseHighlight/CourseHighlight';
 import { Row } from 'react-bootstrap';
 import { CourseContext } from '../../App';
 
+/*------------------------------------------------
+            Home section with two part
+--------------------------------------------------*/
 const Home = () =>
 {
+    // data receive using useContext() and useState()
     const [courses] = useContext(CourseContext);
     const [topCourses, setTopCourses] = useState([]);
 
+    // Filter top rated courses & pass to useState()
     useEffect(() =>
     {
         const topCourse = courses.filter(course => course.rating.star === 5);
         setTopCourses(topCourse);
     }, [courses]);
 
+    // Slider and top rated courses
     return (
         <div className="container">
             <CourseSlider />

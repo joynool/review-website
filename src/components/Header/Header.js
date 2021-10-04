@@ -4,6 +4,9 @@ import { Link } from 'react-router-dom';
 
 const Header = () =>
 {
+    /*------------------------------------------------
+        Header navbar panel with route functionality
+    --------------------------------------------------*/
     return (
         <div className="sticky-lg-top">
             <Navbar bg="light" expand="lg">

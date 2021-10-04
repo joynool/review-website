@@ -3,6 +3,9 @@ import { Container, Navbar } from 'react-bootstrap';
 
 const Footer = () =>
 {
+    /*------------------------------------------------
+                        Footer panel
+    --------------------------------------------------*/
     return (
         <div className="mt-3">
             <Navbar bg="light">

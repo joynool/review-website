@@ -38,7 +38,7 @@
         "title": "Pro Baking Pastry Desserts: Buns, Croissants & Schneck",
         "img": "https://images.unsplash.com/photo-1612240498936-65f5101365d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFzdHJ5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": {
-            "star": 4.5,
+            "star": 4,
             "enrolled": 300
         },
         "learn": [
@@ -55,7 +55,7 @@
         "title": "Fabioulous Pizza",
         "img": "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGl6emF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": {
-            "star": 4.8,
+            "star": 4.5,
             "enrolled": 154
         },
         "learn": [
@@ -72,8 +72,8 @@
         "title": "Plated Desserts Made Simple",
         "img": "https://images.unsplash.com/photo-1617980695459-c3f033df383d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGxhdGVkJTIwZGVzc2VydHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": {
-            "star": 4.7,
-            "enrolled": 907
+            "star": 3.5,
+            "enrolled": 520
         },
         "learn": [
             "Advance your baking & decorating career by learning a huge variety of critical recipes and sophisticated decoration skills.",
@@ -106,7 +106,7 @@
         "title": "The best three easy recipes of cupcake",
         "img": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y3VwY2FrZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": {
-            "star": 4.9,
+            "star": 4.5,
             "enrolled": 510
         },
         "learn": [

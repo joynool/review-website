@@ -1,11 +1,17 @@
 import React, { useContext } from 'react';
 import { Button, Card, Col, Row } from 'react-bootstrap';
+import Rating from 'react-rating';
 import { CourseContext } from '../../App';
 
+/*------------------------------------------------
+    All courses display using bootstrap grid card
+--------------------------------------------------*/
 const Courses = () =>
 {
+    // data receive using useContext()
     const [courses] = useContext(CourseContext);
 
+    // display courses using grid card
     return (
         <div className="container">
             <div className="border-top border-bottom text-center text-success fw-light m-4">
@@ -23,7 +29,15 @@ const Courses = () =>
                                     <div>
                                         <div className="d-flex justify-content-around fs-6 fw-normal">
                                             <p>Duration: {course.duration} minute</p>
-                                            <p>Rating: {course.rating.star} (Enrolled {course.rating.enrolled} students)</p>
+                                            <div className="d-flex">
+                                                <Rating style={{ color: "goldenrod" }}
+                                                    initialRating={course.rating.star}
+                                                    emptySymbol="far fa-star"
+                                                    fullSymbol="fas fa-star"
+                                                    readonly
+                                                />
+                                                <p>({course.rating.enrolled} students enrolled so far)</p>
+                                            </div>
                                         </div>
                                         <div className="border rounded p-2">
                                             <p className="fw-bold">You will learn:</p>

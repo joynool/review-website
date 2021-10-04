@@ -1,7 +1,7 @@
 [
     {
         "key": "1",
-        "title": "Baking Bead As chef - Bread Baking For Breakfast and Sandwich!",
+        "title": "Baking Bead As chef - Bread Baking For Breakfast!",
         "img": "https://images.unsplash.com/photo-1606101206245-adebf963b569?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGJlYWQlMjBiYWtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": {
             "star": 5,
@@ -9,7 +9,7 @@
         },
         "learn": [
             "How to Bake Three of Breakfast Breads that are Banana Bread, Almonds Bread, and Batbout Bread.",
-            "How to Bake Three of Sandwich Breads that are Toast, Burger, and Fati Bread.",
+            "How to Bake Three of Sandwich Breads that are Toast, Burger, and Bread.",
             "Tips that you need to focus on to succeed Baking Our Bread Suggestions."
         ],
         "requirements": "If you already know how to knead manually, that would be better.",
@@ -25,7 +25,9 @@
             "enrolled": 345
         },
         "learn": [
-            "Learn how to make the best, moist and tasty vanilla cake from scratch to applying simple but elegant decoration in 9 simple videos"
+            "Learn how to make the best, moist and tasty vanilla cake from scratch to applying simple but elegant decoration in 9 simple videos",
+            "baking cakes and making caramel and frosting",
+            "Create unique and stylish chocolate and mousse-based vanilla cakes."
         ],
         "requirements": "This is course is designed for beginners and experts alike.",
         "duration": 30,
@@ -41,8 +43,8 @@
         },
         "learn": [
             "How to make Pastry cream: secrets and tips.",
-            "Bun Dough: baking 2 pastry desserts (Burger and cream bun, chocolate bun).",
-            "Pain au chocolat Dough: baking 3 pastry desserts (Pain au chocolat, Croissant, Schneck)."
+            "Bun Dough: baking 2 pastry desserts (Burger and cream bun, chocolate).",
+            "Pain au chocolat Dough: baking 3 pastry desserts (Pain au chocolat)."
         ],
         "requirements": "Be able to knead manually.",
         "duration": 39,
@@ -57,9 +59,11 @@
             "enrolled": 154
         },
         "learn": [
-            "Make the best homemade pizza, using what you have at home."
+            "Make the best homemade pizza, using what you have at home.",
+            "Learn how to make the best, moist and tasty chess pizza",
+            "Create professionally looking Delicious pizza"
         ],
-        "requirements": "No need to buy neither special ingredients nor special tools. I only recommend a cheap kitchen scale for precise measurements.",
+        "requirements": "No need to buy neither special ingredients nor special tools.",
         "duration": 90,
         "price": 13.99
     },
@@ -116,15 +120,15 @@
     },
     {
         "key": "8",
-        "title": "7 Beautiful Piping Techniques for Unique Cakes",
+        "title": "7 Beautiful Piping Techniques for Cakes",
         "img": "https://images.unsplash.com/photo-1622896784083-cc051313dbab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2FrZSUyMGRlY29yYXRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": {
             "star": 5,
             "enrolled": 50
         },
         "learn": [
-            "The basics of frosting: how to check and adjust the consistency and how to store it",
-            "How to pipe detailed shapes onto cakes e.g. rainbows, pumpkins, Christmas trees",
+            "The basics of frosting: how to check and adjust the consistency",
+            "How to pipe detailed shapes onto cakes e.g. rainbows, pumpkins",
             "How to pipe texture onto cakes using different piping tips"
         ],
         "requirements": "Have an interest in cake decorating!",

@@ -8,11 +8,20 @@ import Courses from './components/Courses/Courses';
 import Contacts from './components/Contacts/Contacts';
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
+import { createContext, useEffect, useState } from 'react';
+export const CourseContext = createContext('allCourses');
 
 function App ()
 {
+  const [courses, setCourses] = useState([]);
+  useEffect(() =>
+  {
+    fetch('./baking_school.JSON')
+      .then(res => res.json())
+      .then(data => setCourses(data));
+  }, []);
   return (
-    <div>
+    <CourseContext.Provider value={[courses, setCourses]}>
       <BrowserRouter>
         <Header />
         <Switch>
@@ -37,7 +46,7 @@ function App ()
         </Switch>
         <Footer />
       </BrowserRouter>
-    </div>
+    </CourseContext.Provider>
   );
 }
 
